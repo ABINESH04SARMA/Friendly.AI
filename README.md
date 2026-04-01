@@ -1,0 +1,2 @@
+# Friendly.AI
+Web Application
